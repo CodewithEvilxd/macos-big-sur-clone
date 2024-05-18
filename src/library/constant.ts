@@ -231,13 +231,13 @@ export const DockApp: DockItemType[] = [
     name: "Instagram",
     icon: "/dock/instagram.png",
     type: "link",
-    link: "https://www.instagram.com/mirayatech",
+    link: "https://www.instagram.com/game_changer.09",
   },
   {
     name: "Github",
     icon: "/dock/github.png",
     type: "link",
-    link: "https://github.com/mirayatech",
+    link: "https://github.com/codewithEvilxd",
   },
 ];
 
